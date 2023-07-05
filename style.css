@@ -148,6 +148,18 @@ body {
     border-radius: 8px;
     
 }
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1f2937;
+    color: #f9faf8;
+    font-size: 14px;
+    flex: 1;
+    padding: 24px;
+}
+
 ul {
     list-style-type: none;
     display: flex;
